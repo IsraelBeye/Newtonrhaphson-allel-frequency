@@ -2,7 +2,7 @@
 title: "newtonrhaphson"
 output: html_document
 ---
-
+I have made some changes
 ```{r}
 n <- 1000;
 f <- 0.1;
